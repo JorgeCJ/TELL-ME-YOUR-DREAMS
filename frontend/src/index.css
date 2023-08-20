@@ -22,3 +22,9 @@ input:focus {
   align-items:center;
   justify-content:center;
 }
+
+@media screen and (max-width: 610px) {
+  .container {
+    background-size: cover;
+  }
+}
