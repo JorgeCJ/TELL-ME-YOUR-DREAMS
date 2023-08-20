@@ -26,6 +26,5 @@ input:focus {
 @media screen and (max-width: 610px) {
   .container {
     height:100vh;
-    width:100vh;
   }
 }
