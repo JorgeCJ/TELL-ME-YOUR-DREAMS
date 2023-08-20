@@ -62,11 +62,9 @@ function App() {
         autoPlay={true}
         loop
       ></audio>
-      <div className="center1">
+      <div className='centering'>
       <h1>Tell me your Dreams</h1>
       <h2>Share information about your dreams.</h2>
-      </div>
-      <div className='centering'>
         <input placeholder='Name' onChange={event => setNewName(event.target.value)} />
         <input placeholder='Dream' onChange={event => setNewDream(event.target.value)} />
         <button onClick={() =>{addInformation();playSound();}} disabled={!isFormValid}>Add information</button>
