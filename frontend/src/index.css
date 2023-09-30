@@ -22,6 +22,7 @@ input:focus {
   align-items:center;
   justify-content:center;
   padding-top: 15vh;
+  padding-left:10vw;
 }
 
 @media screen and (max-width: 850px) {
