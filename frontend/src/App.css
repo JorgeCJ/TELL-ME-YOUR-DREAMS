@@ -31,7 +31,8 @@ body {
   min-width: 560px;
   min-height: 500px;
   margin: 0 auto;
-  padding: 20vw;
+  padding: 20px;
+  margin:20vw;
   background: white;
   width: 100%;
   margin: 0 auto;
