@@ -24,6 +24,7 @@ body {
   position: relative;
   background-image: url('/images/background2.jpg');
   background-size: cover;
+  min-width:600px;
 }
 
 .container {
