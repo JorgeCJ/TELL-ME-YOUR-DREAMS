@@ -21,7 +21,7 @@ input:focus {
   display:flexbox;
   align-items:center;
   justify-content:center;
-  padding-top: 10vh;
+  padding-top: 15vh;
 }
 
 @media screen and (max-width: 850px) {
