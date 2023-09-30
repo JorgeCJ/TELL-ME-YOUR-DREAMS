@@ -2,8 +2,8 @@ ul,h2,h1,input{
   display:flexbox;
   justify-content:center;
   align-items:center;
-  margin-left:10vw;
-  margin-right:10vw;
+  padding-left:15vw;
+  padding-right:15vw;
 }
 
 h2,h1,input{
